@@ -1,0 +1,19 @@
+{
+  "name": "bot_without_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jalali-moment": "^3.3.10",
+    "moment": "^2.29.1",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.1.2",
+    "technicalindicators": "^3.1.0",
+    "websocket": "^1.0.34"
+  }
+}
